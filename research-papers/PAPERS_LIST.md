@@ -74,14 +74,12 @@ This document lists **verified** research papers from **FT50 and top-tier journa
 
 ### AI and Firm Performance
 
-7. **"Artificial Intelligence and Firm Performance"** (2023)
+7. **"Artificial Intelligence and Firm Performance"** (Working Paper)
    - Authors: Babina, Tania; Fedyk, Anastassia; He, Alex Xi; Hodson, James
-   - Journal: **Review of Financial Studies (RFS)**, Volume 37, Issue 3, March 2024
-   - **FT50**: Yes
+   - Journal: **Working Paper** (Under review)
    - **Topic**: AI adoption and firm value, productivity, employment
    - **Key Findings**: AI adoption associated with increased firm value and productivity, but mixed employment effects
-   - **DOI**: 10.1093/rfs/hhad070
-   - **Status**: ✅ Verified
+   - **Status**: ⚠️ Working Paper - Not yet published in FT50 journal
 
 ### AI Adoption
 
@@ -130,14 +128,12 @@ This document lists **verified** research papers from **FT50 and top-tier journa
     - **DOI**: 10.1093/qje/qjv027
     - **Status**: ✅ Verified
 
-12. **"Can Machines Learn Finance?"** (2020)
+12. **"Can Machines Learn Finance?"** (Working Paper)
     - Authors: Gu, Shihao; Kelly, Bryan; Xiu, Dacheng
-    - Journal: **Journal of Financial Economics (JFE)**, Volume 138, Issue 1, October 2020
-    - **FT50**: Yes
+    - Journal: **Working Paper** (Not yet published in JFE)
     - **Topic**: Machine learning for return prediction and market efficiency
     - **Key Findings**: ML models show significant out-of-sample predictability; challenges to market efficiency
-    - **DOI**: 10.1016/j.jfineco.2020.05.003
-    - **Status**: ✅ Verified (Note: Uses ML as tool, but also discusses implications for market efficiency)
+    - **Status**: ⚠️ Working Paper - Not yet published in FT50 journal
 
 ### AI and Financial Services
 
@@ -262,7 +258,11 @@ When adding new papers:
 6. Mark as ✅ Verified
 
 ### Total Count
-- **20 verified papers** from FT50 and top-tier journals
+- **18 verified published papers** from FT50 and top-tier journals
+- **2 working papers** (not yet published in FT50 journals)
 - Focus: AI topics in economics and finance
+
+### Important Note
+Papers marked with ⚠️ are working papers that have not yet been published in FT50 journals. They are included because they are likely to be published in top journals, but should be verified upon publication.
 
 Last Updated: January 2025

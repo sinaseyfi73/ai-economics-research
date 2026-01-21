@@ -1,11 +1,17 @@
 # Research Notes
 
-This directory contains notes, summaries, and insights from research papers.
+This directory contains notes, summaries, and insights from research papers on **AI topics in economics and finance** from **FT50 and top-tier journals**.
+
+## Focus
+
+- Only papers from FT50/top-tier journals
+- Only papers about **AI topics** (AI's impact), not papers using AI as a tool
+- Focus on economic/financial implications of AI
 
 ## How to Use This Directory
 
 - Create individual note files for each paper you read
-- Use consistent naming: `YYYY-MM-DD_PaperTitle.md`
+- Use consistent naming: `YYYY-MM-DD_Journal_PaperTitle.md`
 - Include key findings, methodology, and your thoughts
 
 ## Template for Paper Notes
@@ -15,7 +21,7 @@ This directory contains notes, summaries, and insights from research papers.
 
 **Authors**: 
 **Year**: 
-**Journal/Conference**: 
+**Journal**: [FT50: Yes/No]
 **Link**: 
 
 ## Summary
@@ -28,14 +34,14 @@ This directory contains notes, summaries, and insights from research papers.
 ## Methodology
 [Description of methods used]
 
+## Economic Implications
+[How AI affects economic outcomes]
+
 ## Strengths
 - Strength 1
 
 ## Limitations
 - Limitation 1
-
-## Applications
-[How this could be applied]
 
 ## Related Papers
 - [Link to related work]
@@ -46,8 +52,11 @@ This directory contains notes, summaries, and insights from research papers.
 
 ## Topics to Track
 
-- Methodological innovations
-- Dataset discoveries
-- Reproducibility issues
-- Open questions
-- Future research directions
+- AI's impact on labor markets
+- AI and productivity
+- AI and firms
+- AI and inequality
+- AI and policy
+- Generative AI effects
+- Measurement challenges
+- Causal identification strategies

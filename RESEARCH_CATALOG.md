@@ -1,248 +1,196 @@
-# Research Catalog: AI in Economics & Finance
+# Research Catalog: AI Topics in Economics & Finance
 
-This document catalogs key research papers and resources on AI applications in economics and finance.
+This catalog focuses exclusively on research from **FT50 and top-tier journals** examining **AI topics** - how AI impacts economic outcomes, markets, firms, and society.
 
 ## Table of Contents
-1. [Machine Learning in Finance](#machine-learning-in-finance)
-2. [Deep Learning Applications](#deep-learning-applications)
-3. [Natural Language Processing in Economics](#natural-language-processing-in-economics)
-4. [Macroeconomic Forecasting](#macroeconomic-forecasting)
-5. [Microeconomic Applications](#microeconomic-applications)
-6. [Behavioral Economics & AI](#behavioral-economics--ai)
-7. [Policy Analysis & AI](#policy-analysis--ai)
-8. [Algorithmic Trading](#algorithmic-trading)
-9. [Risk Management](#risk-management)
-10. [Economic Theory & AI](#economic-theory--ai)
+
+1. [Labor Markets & Productivity](#labor-markets--productivity)
+2. [Firms & Industries](#firms--industries)
+3. [Macroeconomics & Growth](#macroeconomics--growth)
+4. [Finance & Financial Markets](#finance--financial-markets)
+5. [Inequality & Distribution](#inequality--distribution)
+6. [Policy & Regulation](#policy--regulation)
+7. [Generative AI & Large Language Models](#generative-ai--large-language-models)
+8. [AI Adoption & Diffusion](#ai-adoption--diffusion)
 
 ---
 
-## Machine Learning in Finance
+## Labor Markets & Productivity
 
-### Stock Market Prediction
-- **Title**: "Deep Learning for Stock Market Prediction"
-- **Authors**: Various
-- **Key Topics**: LSTM, RNN, time series forecasting
-- **Year**: 2015-2024
-- **Notes**: Multiple papers on using neural networks for stock price prediction
+### AI and Employment
+- **Key Questions**: How does AI affect employment? Which jobs are at risk? What new jobs are created?
+- **Topics**: Job displacement, job creation, occupational transitions, labor demand shifts
+- **Example**: "Generative AI at Work" (QJE) - Impact of generative AI on worker productivity
 
-### Credit Risk Assessment
-- **Title**: "Machine Learning Models for Credit Scoring"
-- **Key Topics**: Random Forest, XGBoost, feature engineering
-- **Applications**: Loan approval, default prediction
+### AI and Productivity
+- **Key Questions**: Does AI increase productivity? At what level (firm, industry, aggregate)?
+- **Topics**: Productivity measurement, AI complementarity with labor, automation effects
+- **Research Areas**: Firm-level studies, industry-level analysis, aggregate productivity growth
 
-### Portfolio Optimization
-- **Title**: "Reinforcement Learning for Portfolio Management"
-- **Key Topics**: Q-learning, policy gradients, risk-return optimization
+### Skill-Biased Technological Change
+- **Key Questions**: Does AI favor certain skills? How does it affect skill demand?
+- **Topics**: High-skill vs. low-skill workers, cognitive vs. manual tasks, skill premiums
 
----
-
-## Deep Learning Applications
-
-### Neural Networks in Economic Modeling
-- **Title**: "Deep Neural Networks for Economic Forecasting"
-- **Key Topics**: Feedforward networks, convolutional networks, economic indicators
-
-### Time Series Analysis
-- **Title**: "Deep Learning for Economic Time Series"
-- **Key Topics**: LSTM, GRU, Transformer models, GDP forecasting
-
-### Market Microstructure
-- **Title**: "Deep Learning in High-Frequency Trading"
-- **Key Topics**: Order book analysis, market making, liquidity prediction
+### Labor Market Transitions
+- **Key Questions**: How do workers adapt to AI? What are the transition costs?
+- **Topics**: Retraining, occupational mobility, geographic mobility, unemployment duration
 
 ---
 
-## Natural Language Processing in Economics
+## Firms & Industries
 
-### Sentiment Analysis
-- **Title**: "Text Analysis of Economic News and Market Impact"
-- **Key Topics**: Sentiment analysis, news impact on markets, Twitter analysis
-- **Applications**: Market sentiment indicators, policy announcement effects
+### AI Adoption by Firms
+- **Key Questions**: Which firms adopt AI? What drives adoption? What are barriers?
+- **Topics**: Adoption patterns, firm characteristics, industry differences, diffusion
 
-### Economic Text Mining
-- **Title**: "Mining Economic Reports with NLP"
-- **Key Topics**: Topic modeling, named entity recognition, economic indicators extraction
-- **Sources**: Federal Reserve reports, ECB communications, economic news
+### AI and Firm Performance
+- **Key Questions**: Does AI improve firm performance? How does it affect profitability?
+- **Topics**: Revenue, costs, market value, competitive advantage, innovation
 
-### Central Bank Communication
-- **Title**: "NLP Analysis of Central Bank Speeches"
-- **Key Topics**: Policy tone analysis, forward guidance extraction
+### AI and Market Structure
+- **Key Questions**: How does AI affect competition? Market concentration? Entry barriers?
+- **Topics**: Market power, network effects, data advantages, winner-take-all dynamics
 
----
-
-## Macroeconomic Forecasting
-
-### GDP Prediction
-- **Title**: "Machine Learning for GDP Forecasting"
-- **Key Topics**: Ensemble methods, feature selection, economic indicators
-- **Data Sources**: National accounts, leading indicators
-
-### Inflation Modeling
-- **Title**: "AI Models for Inflation Prediction"
-- **Key Topics**: Consumer price indices, inflation expectations, Phillips curve
-
-### Unemployment Forecasting
-- **Title**: "Predicting Unemployment with Machine Learning"
-- **Key Topics**: Labor market indicators, job market analysis
-
-### Monetary Policy
-- **Title**: "AI in Central Banking"
-- **Key Topics**: Interest rate prediction, policy rule estimation
+### AI and Innovation
+- **Key Questions**: How does AI affect firm innovation? R&D? Product development?
+- **Topics**: Innovation outcomes, R&D productivity, patenting, new product introduction
 
 ---
 
-## Microeconomic Applications
+## Macroeconomics & Growth
 
-### Price Optimization
-- **Title**: "Dynamic Pricing with Machine Learning"
-- **Key Topics**: Demand elasticity, competitive pricing, revenue management
+### AI and Economic Growth
+- **Key Questions**: How does AI affect aggregate economic growth? Long-run growth?
+- **Topics**: Growth accounting, total factor productivity, technological progress, Solow paradox
 
-### Demand Forecasting
-- **Title**: "AI for Demand Prediction"
-- **Key Topics**: Consumer behavior, seasonal patterns, market demand
+### AI and Productivity Growth
+- **Key Questions**: Does AI contribute to aggregate productivity growth? When?
+- **Topics**: Productivity slowdown, measurement issues, diffusion lags
 
-### Market Structure Analysis
-- **Title**: "Machine Learning for Market Competition Analysis"
-- **Key Topics**: Market concentration, competitive dynamics
+### AI and Business Cycles
+- **Key Questions**: How does AI affect business cycles? Recessions? Recovery?
+- **Topics**: Cyclical effects, automation timing, investment cycles
 
----
-
-## Behavioral Economics & AI
-
-### Decision-Making Models
-- **Title**: "AI Models of Economic Decision-Making"
-- **Key Topics**: Prospect theory, bounded rationality, choice modeling
-
-### Market Sentiment
-- **Title**: "Behavioral Finance and AI"
-- **Key Topics**: Herding behavior, market bubbles, investor psychology
-
-### Experimental Economics
-- **Title**: "AI in Experimental Economics"
-- **Key Topics**: Agent-based modeling, game theory, auction design
+### AI and Inflation
+- **Key Questions**: How does AI affect prices? Inflation dynamics?
+- **Topics**: Cost reduction, price competition, deflationary pressures
 
 ---
 
-## Policy Analysis & AI
+## Finance & Financial Markets
 
-### Economic Policy Impact
-- **Title**: "Evaluating Policy Effects with Machine Learning"
-- **Key Topics**: Causal inference, policy evaluation, treatment effects
+### AI in Financial Markets
+- **Key Questions**: How does AI affect financial markets? Trading? Market efficiency?
+- **Topics**: Algorithmic trading, market microstructure, price discovery, liquidity
 
-### Tax Policy
-- **Title**: "AI for Tax Policy Optimization"
-- **Key Topics**: Tax compliance, optimal taxation, revenue prediction
+### AI and Market Efficiency
+- **Key Questions**: Does AI improve market efficiency? Information processing?
+- **Topics**: Price efficiency, information aggregation, market anomalies
 
-### Regulatory Compliance
-- **Title**: "AI in Financial Regulation"
-- **Key Topics**: Fraud detection, compliance monitoring, regulatory reporting
+### AI and Financial Stability
+- **Key Questions**: How does AI affect financial stability? Systemic risk?
+- **Topics**: Flash crashes, algorithmic trading risks, market fragility
 
----
-
-## Algorithmic Trading
-
-### High-Frequency Trading
-- **Title**: "Machine Learning in HFT"
-- **Key Topics**: Latency optimization, order flow prediction, market impact
-
-### Quantitative Strategies
-- **Title**: "AI-Driven Trading Strategies"
-- **Key Topics**: Factor models, signal generation, backtesting
-
-### Market Making
-- **Title**: "Reinforcement Learning for Market Making"
-- **Key Topics**: Inventory management, spread optimization
+### AI and Financial Services
+- **Key Questions**: How does AI transform financial services? Banking? Insurance?
+- **Topics**: Fintech, credit scoring, robo-advisors, financial inclusion
 
 ---
 
-## Risk Management
+## Inequality & Distribution
 
-### Value at Risk (VaR)
-- **Title**: "Machine Learning for VaR Estimation"
-- **Key Topics**: Tail risk, extreme value theory, stress testing
+### AI and Wage Inequality
+- **Key Questions**: How does AI affect wage inequality? Between-group vs. within-group?
+- **Topics**: Skill premiums, wage polarization, gender/racial gaps
 
-### Credit Risk
-- **Title**: "AI Models for Credit Risk Management"
-- **Key Topics**: Default prediction, credit spreads, counterparty risk
+### AI and Regional Disparities
+- **Key Questions**: How does AI affect geographic inequality? Urban vs. rural?
+- **Topics**: Regional development, agglomeration effects, spatial inequality
 
-### Operational Risk
-- **Title**: "AI in Operational Risk Management"
-- **Key Topics**: Fraud detection, operational losses, risk monitoring
-
----
-
-## Economic Theory & AI
-
-### Agent-Based Models
-- **Title**: "AI-Enhanced Agent-Based Economic Models"
-- **Key Topics**: Multi-agent systems, economic simulation, market dynamics
-
-### Game Theory
-- **Title**: "Machine Learning in Game Theory"
-- **Key Topics**: Nash equilibrium, mechanism design, auction theory
-
-### General Equilibrium
-- **Title**: "AI for General Equilibrium Analysis"
-- **Key Topics**: Computational economics, equilibrium computation
+### AI and Income Distribution
+- **Key Questions**: How does AI affect overall income distribution? Top shares?
+- **Topics**: Income inequality, wealth inequality, capital vs. labor shares
 
 ---
 
-## Key Journals & Conferences
+## Policy & Regulation
 
-### Journals
-- Journal of Financial Data Science
-- Journal of Economic Dynamics and Control
-- Quantitative Finance
-- Journal of Machine Learning Research
-- Review of Financial Studies
+### AI Regulation
+- **Key Questions**: How should AI be regulated? What are optimal policies?
+- **Topics**: Regulatory frameworks, risk-based approaches, international coordination
 
-### Conferences
-- NeurIPS (Neural Information Processing Systems)
-- ICML (International Conference on Machine Learning)
-- AAAI (Association for the Advancement of Artificial Intelligence)
-- AEA (American Economic Association) Annual Meeting
-- NBER (National Bureau of Economic Research) Conferences
+### AI and Antitrust
+- **Key Questions**: How does AI affect competition policy? Antitrust enforcement?
+- **Topics**: Market power, data monopolies, algorithmic collusion, platform competition
 
----
+### AI and Taxation
+- **Key Questions**: How should AI be taxed? Robot taxes? Data taxes?
+- **Topics**: Tax policy, redistribution, fiscal implications
 
-## Datasets
-
-### Financial Data
-- Yahoo Finance API
-- Quandl
-- FRED (Federal Reserve Economic Data)
-- World Bank Open Data
-- IMF Data
-
-### Economic Indicators
-- OECD Data
-- Eurostat
-- Bureau of Labor Statistics (BLS)
-- Bureau of Economic Analysis (BEA)
+### AI and Social Policy
+- **Key Questions**: What social policies are needed for AI? Safety nets? Education?
+- **Topics**: Social insurance, retraining programs, universal basic income, education policy
 
 ---
 
-## Tools & Libraries
+## Generative AI & Large Language Models
 
-### Python
-- scikit-learn
-- TensorFlow / PyTorch
-- pandas
-- numpy
-- statsmodels
-- yfinance
-- fredapi
+### Generative AI at Work
+- **Key Questions**: How does generative AI affect work? Productivity? Quality?
+- **Topics**: ChatGPT, coding assistants, content creation, knowledge work
+- **Example**: "Generative AI at Work" (QJE) - Impact on customer support agents
 
-### R
-- caret
-- randomForest
-- xgboost
-- quantmod
+### Large Language Models in Economics
+- **Key Questions**: How do LLMs affect economic activity? What are the implications?
+- **Topics**: GPT models, economic text analysis, automated decision-making
+
+### Generative AI and Creativity
+- **Key Questions**: How does generative AI affect creative work? Innovation?
+- **Topics**: Content creation, design, research, intellectual property
+
+---
+
+## AI Adoption & Diffusion
+
+### Adoption Patterns
+- **Key Questions**: How does AI adoption vary across firms? Industries? Countries?
+- **Topics**: Adoption rates, diffusion curves, early adopters vs. laggards
+
+### Barriers to Adoption
+- **Key Questions**: What prevents AI adoption? Costs? Skills? Regulation?
+- **Topics**: Implementation costs, complementary investments, organizational change
+
+### AI and Complementary Investments
+- **Key Questions**: What investments complement AI? Data? Skills? Infrastructure?
+- **Topics**: Data quality, human capital, IT infrastructure, organizational capital
+
+---
+
+## Key Research Questions
+
+### Measurement
+- How to measure AI? Adoption? Capabilities? Impact?
+- What data sources? Firm surveys? Job postings? Patents?
+
+### Causal Identification
+- How to identify causal effects of AI? Natural experiments? Instrumental variables?
+- What are valid control groups?
+
+### Heterogeneity
+- How do AI effects vary? By firm size? Industry? Region? Worker type?
+- What explains heterogeneity?
+
+### Dynamics
+- What are short-run vs. long-run effects?
+- How do effects evolve over time?
 
 ---
 
 ## Notes
 
-This catalog is a living document and will be continuously updated as new research emerges.
+- **Focus**: Papers must be from FT50 or top economics/finance journals
+- **Scope**: Papers about **AI topics** (AI's impact), not papers using AI as a tool
+- **Quality**: Only peer-reviewed publications from top-tier journals
+- **Currency**: Emphasis on recent research (2020-2025), but important earlier work included
 
 Last Updated: January 2025

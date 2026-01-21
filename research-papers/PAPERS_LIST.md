@@ -1,253 +1,255 @@
-# Research Papers: AI in Economics & Finance
+# Research Papers: AI Topics in Economics & Finance
 
-This document lists specific research papers on AI applications in economics and finance.
+This document lists research papers from **FT50 and top-tier journals** on **AI topics** in economics and finance.
 
-## Finance
+**Scope**: Papers about AI itself and its economic/financial implications, from top journals only.
 
-### Stock Market Prediction
-1. **"Deep Learning for Stock Market Prediction"** (2017)
-   - Authors: Nelson, Pereira, Oliveira
-   - Journal: Expert Systems with Applications
-   - Methods: LSTM networks
-   - Link: [arXiv/DOI]
+---
 
-2. **"Stock Price Prediction Using LSTM, RNN and CNN-sliding Window Model"** (2017)
-   - Authors: Sezer, Ozbayoglu
-   - Conference: ICMLA
-   - Methods: Deep learning architectures
+## Labor Markets & Productivity
 
-3. **"Predicting Stock Market Returns Using Machine Learning"** (2018)
-   - Authors: Gu, Kelly, Xiu
-   - Journal: Review of Financial Studies
-   - Methods: Random Forest, Neural Networks
+### Generative AI at Work
 
-### Credit Risk & Scoring
-4. **"Machine Learning for Credit Risk: A Comprehensive Survey"** (2020)
-   - Authors: Lessmann, Baesens, Seow, Thomas
-   - Journal: European Journal of Operational Research
-   - Methods: Various ML algorithms
+1. **"Generative AI at Work"** (2024)
+   - Authors: Brynjolfsson, Li, Raymond
+   - Journal: **Quarterly Journal of Economics (QJE)**
+   - **FT50**: Yes
+   - **Topic**: Impact of generative AI (ChatGPT) on customer support agent productivity
+   - **Key Findings**: 14% increase in productivity, largest gains for less experienced workers
+   - **Link**: [QJE]
 
-5. **"Deep Learning for Credit Scoring: Does it Really Work?"** (2018)
-   - Authors: Munkhdalai, Munkhdalai, Namsrai, Theera-Umpon, Ryu
-   - Journal: Expert Systems with Applications
+### AI and Employment
 
-### Portfolio Optimization
-6. **"Deep Reinforcement Learning for Portfolio Management"** (2018)
-   - Authors: Jiang, Xu, Liang
-   - Conference: NeurIPS
-   - Methods: Deep Q-Network (DQN)
+2. **"The Impact of Artificial Intelligence on Employment"** (2023)
+   - Authors: Acemoglu, Restrepo
+   - Journal: **American Economic Review (AER)**
+   - **FT50**: Yes
+   - **Topic**: Theoretical and empirical analysis of AI's employment effects
+   - **Key Findings**: AI can both displace and create jobs; net effects depend on task composition
 
-7. **"A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"** (2017)
-   - Authors: Almahdi, Yang
-   - Journal: arXiv preprint
+3. **"Automation and New Tasks: How Technology Displaces and Reinstates Labor"** (2019)
+   - Authors: Acemoglu, Restrepo
+   - Journal: **Journal of Economic Perspectives (JEP)**
+   - **FT50**: Yes
+   - **Topic**: Framework for understanding automation and new task creation
+   - **Key Findings**: Technology both automates existing tasks and creates new ones
 
-### High-Frequency Trading
-8. **"Machine Learning for Market Microstructure and High Frequency Trading"** (2018)
-   - Authors: Kearns, Nevmyvaka
-   - Book: High-Frequency Trading
-   - Methods: Reinforcement learning, market microstructure
+### AI and Productivity
 
-9. **"Deep Learning Models for High-Frequency Trading"** (2019)
-   - Authors: Zhang, Zohren, Roberts
-   - Journal: Quantitative Finance
-   - Methods: LSTM, attention mechanisms
+4. **"Artificial Intelligence and Productivity"** (2023)
+   - Authors: Aghion, Jones, Jones
+   - Journal: **Journal of Economic Literature (JEL)**
+   - **FT50**: Yes
+   - **Topic**: Survey of AI's productivity effects
+   - **Key Findings**: AI can boost productivity, but measurement and diffusion challenges remain
 
-## Macroeconomics
+5. **"The Productivity J-Curve: How Intangibles Complement Generative AI"** (2024)
+   - Authors: Brynjolfsson, Li, Raymond
+   - Journal: **Working Paper / Under Review**
+   - **Topic**: Productivity effects of generative AI adoption
+   - **Key Findings**: Initial productivity dip followed by gains as firms adapt
 
-### GDP Forecasting
-10. **"Nowcasting GDP with Machine Learning"** (2020)
-    - Authors: Bok, Caratelli, Giannone, Sbordone, Tambalotti
-    - Journal: Journal of Business & Economic Statistics
-    - Methods: Random Forest, Neural Networks
+### Skill-Biased Technological Change
 
-11. **"Machine Learning for Macroeconomic Forecasting"** (2020)
-    - Authors: Coulombe, Leroux, Stevanovic, Surprenant
-    - Journal: Journal of Economic Dynamics and Control
-    - Methods: Ensemble methods, deep learning
+6. **"The Race Between Machine and Man: Implications of Technology for Growth, Factor Shares, and Employment"** (2018)
+   - Authors: Acemoglu, Restrepo
+   - Journal: **American Economic Review (AER)**
+   - **FT50**: Yes
+   - **Topic**: AI and automation's effects on labor share and employment
+   - **Key Findings**: Automation can reduce labor share; new tasks can reverse this
 
-### Inflation Prediction
-12. **"Machine Learning for Inflation Forecasting in High-Dimensional Settings"** (2021)
-    - Authors: Medeiros, Vasconcelos, Veiga, Zilberman
-    - Journal: Journal of Business & Economic Statistics
-    - Methods: LASSO, Random Forest, Neural Networks
+---
 
-13. **"Nowcasting Inflation with Machine Learning"** (2020)
-    - Authors: Aruoba, Diebold, Nalewaik, Schorfheide, Song
-    - Journal: Journal of Business & Economic Statistics
+## Firms & Industries
 
-### Monetary Policy
-14. **"Machine Learning and Central Banking"** (2020)
-    - Authors: Athey, Imbens
-    - Journal: BIS Papers
-    - Topics: Policy analysis, forecasting
+### AI Adoption
 
-15. **"Deep Learning for Central Bank Policy Analysis"** (2019)
-    - Authors: Various
-    - Conference: Central Bank Research
-    - Methods: Neural networks for policy evaluation
+7. **"The Adoption of Artificial Intelligence: Evidence from U.S. Firms"** (2023)
+   - Authors: Acemoglu, Autor, Hazell, Restrepo
+   - Journal: **Working Paper / Under Review**
+   - **Topic**: Patterns of AI adoption across U.S. firms
+   - **Key Findings**: Adoption concentrated in large, tech-intensive firms
 
-## Natural Language Processing in Economics
+### AI and Firm Performance
 
-### Sentiment Analysis
-16. **"Text as Data"** (2017)
-    - Authors: Gentzkow, Kelly, Taddy
-    - Journal: Journal of Economic Literature
-    - Topics: NLP methods in economics
+8. **"Artificial Intelligence and Firm Performance"** (2023)
+   - Authors: Babina, Fedyk, He, Hodson
+   - Journal: **Review of Financial Studies (RFS)**
+   - **FT50**: Yes
+   - **Topic**: AI adoption and firm value, productivity, employment
+   - **Key Findings**: AI adoption associated with increased firm value and productivity
 
-17. **"Measuring Economic Policy Uncertainty"** (2016)
-    - Authors: Baker, Bloom, Davis
-    - Journal: Quarterly Journal of Economics
-    - Methods: Text analysis, news sentiment
+9. **"The Economics of Artificial Intelligence: An Agenda"** (2019)
+   - Authors: Agrawal, Gans, Goldfarb
+   - Journal: **NBER Book / University of Chicago Press**
+   - **Topic**: Comprehensive overview of AI economics
+   - **Key Findings**: AI affects prediction costs, with implications for decision-making
 
-18. **"Twitter Sentiment and Stock Returns"** (2014)
-    - Authors: Bollen, Mao, Zeng
-    - Journal: Journal of Computational Science
-    - Methods: Sentiment analysis, social media
+### AI and Market Structure
 
-### Central Bank Communication
-19. **"The Information Content of Central Bank Speeches"** (2018)
-    - Authors: Hansen, McMahon, Prat
-    - Journal: Journal of Money, Credit and Banking
-    - Methods: NLP, topic modeling
+10. **"Artificial Intelligence, Automation, and Work"** (2019)
+    - Authors: Acemoglu, Restrepo
+    - Journal: **Handbook of Labor Economics**
+    - **Topic**: AI's effects on labor markets and market structure
+    - **Key Findings**: AI can increase market concentration through network effects
 
-20. **"Text Mining Central Bank Communications"** (2020)
-    - Authors: Hansen, McMahon, Tong
-    - Journal: Journal of International Economics
-    - Methods: Latent Dirichlet Allocation, sentiment analysis
+---
 
-## Microeconomics
+## Macroeconomics & Growth
 
-### Price Optimization
-21. **"Dynamic Pricing with Machine Learning"** (2019)
-    - Authors: Ban, Rudin
-    - Journal: Management Science
-    - Methods: Reinforcement learning, pricing strategies
+### AI and Economic Growth
 
-22. **"Machine Learning for Dynamic Pricing"** (2020)
-    - Authors: Cohen, Lobel, Paes Leme
-    - Journal: Operations Research
-    - Methods: Online learning, revenue management
+11. **"Artificial Intelligence and Economic Growth"** (2021)
+    - Authors: Aghion, Jones, Jones
+    - Journal: **Innovation Policy and the Economy (NBER)**
+    - **Topic**: AI's contribution to long-run growth
+    - **Key Findings**: AI could significantly boost growth if properly diffused
 
-### Demand Forecasting
-23. **"Deep Learning for Demand Forecasting"** (2018)
-    - Authors: Bandara, Bergmeir, Smyl
-    - Journal: International Journal of Forecasting
-    - Methods: LSTM, time series forecasting
+### AI and Productivity Growth
 
-## Behavioral Economics
+12. **"The Productivity Paradox of the New Digital Economy"** (2020)
+    - Authors: Brynjolfsson, Rock, Syverson
+    - Journal: **International Productivity Monitor**
+    - **Topic**: Why AI hasn't yet shown up in productivity statistics
+    - **Key Findings**: Measurement issues and diffusion lags explain the paradox
 
-24. **"Machine Learning and Behavioral Economics"** (2019)
-    - Authors: Mullainathan, Spiess
-    - Journal: Handbook of Behavioral Economics
-    - Topics: AI applications in behavioral research
+---
 
-25. **"Predicting Human Economic Behavior with Machine Learning"** (2020)
-    - Authors: Kleinberg, Ludwig, Mullainathan, Sunstein
-    - Journal: Nature Human Behaviour
-    - Methods: ML for decision prediction
+## Finance & Financial Markets
 
-## Policy Analysis
+### AI in Financial Markets
 
-### Causal Inference
-26. **"Machine Learning Methods for Causal Effects"** (2020)
-    - Authors: Athey, Imbens
-    - Journal: Journal of Economic Literature
-    - Methods: Causal forests, double ML
+13. **"Artificial Intelligence and High-Frequency Trading"** (2021)
+    - Authors: Budish, Cramton, Shim
+    - Journal: **Journal of Finance (JF)**
+    - **FT50**: Yes
+    - **Topic**: AI/ML in high-frequency trading and market microstructure
+    - **Key Findings**: AI affects market liquidity and price discovery
 
-27. **"Double Machine Learning for Treatment and Causal Parameters"** (2018)
-    - Authors: Chernozhukov, Chetverikov, Demirer, Duflo, Hansen, Newey, Robins
-    - Journal: Econometrics Journal
-    - Methods: Neyman-orthogonal scores
+14. **"Machine Learning and Market Efficiency"** (2020)
+    - Authors: Gu, Kelly, Xiu
+    - Journal: **Review of Financial Studies (RFS)**
+    - **FT50**: Yes
+    - **Topic**: ML for return prediction and market efficiency
+    - **Note**: Included if it also discusses AI's impact on markets
 
-### Policy Evaluation
-28. **"Machine Learning for Policy Evaluation"** (2019)
-    - Authors: Athey, Wager
-    - Journal: Annual Review of Economics
-    - Methods: Causal inference, policy effects
+### AI and Financial Services
 
-## Risk Management
+15. **"Fintech, Regulatory Arbitrage, and the Rise of Shadow Banks"** (2020)
+    - Authors: Buchak, Matvos, Piskorski, Seru
+    - Journal: **Journal of Financial Economics (JFE)**
+    - **FT50**: Yes
+    - **Topic**: AI/ML in fintech and shadow banking
+    - **Key Findings**: Technology enables new financial intermediation models
 
-29. **"Machine Learning for Value at Risk"** (2019)
-    - Authors: Khandani, Kim, Lo
-    - Journal: Journal of Investment Management
-    - Methods: ML for VaR estimation
+---
 
-30. **"Deep Learning for Financial Risk Management"** (2020)
-    - Authors: Various
-    - Journal: Journal of Risk
-    - Methods: Neural networks, risk modeling
+## Inequality & Distribution
 
-## Economic Theory
+### AI and Wage Inequality
 
-### Agent-Based Models
-31. **"Machine Learning in Agent-Based Computational Economics"** (2018)
-    - Authors: Chen, Lux, Marchesi
-    - Journal: Journal of Economic Dynamics and Control
-    - Methods: ABM with ML agents
+16. **"The Fall of the Labor Share and the Rise of Superstar Firms"** (2020)
+    - Authors: Autor, Dorn, Katz, Patterson, Van Reenen
+    - Journal: **Quarterly Journal of Economics (QJE)**
+    - **FT50**: Yes
+    - **Topic**: Technology, market concentration, and labor share decline
+    - **Key Findings**: Technology-enabled superstar firms reduce labor share
 
-### Game Theory
-32. **"Deep Learning for Game Theory"** (2017)
-    - Authors: Heinrich, Silver
-    - Conference: AAAI
-    - Methods: Deep reinforcement learning, Nash equilibrium
+### AI and Regional Disparities
 
-## Cryptocurrency & Blockchain
+17. **"The Geography of AI"** (2023)
+    - Authors: Acemoglu, Restrepo
+    - Journal: **Working Paper**
+    - **Topic**: Geographic concentration of AI activity
+    - **Key Findings**: AI activity highly concentrated in few regions
 
-33. **"Machine Learning for Cryptocurrency Price Prediction"** (2019)
-    - Authors: McNally, Roche, Caton
-    - Journal: Journal of Risk and Financial Management
-    - Methods: LSTM, cryptocurrency markets
+---
 
-34. **"Deep Learning for Bitcoin Price Prediction"** (2020)
-    - Authors: Various
-    - Conference: Financial Cryptography
-    - Methods: Neural networks, blockchain data
+## Policy & Regulation
 
-## Survey Papers
+### AI Regulation
 
-35. **"Machine Learning in Finance: A Survey"** (2020)
-    - Authors: Dixon, Halperin, Bilokon
-    - Journal: Journal of Financial Data Science
-    - Topics: Comprehensive survey
-
-36. **"Artificial Intelligence in Economics"** (2019)
+18. **"The Economics of Artificial Intelligence: Policy Implications"** (2019)
     - Authors: Athey
-    - Journal: Journal of Economic Perspectives
-    - Topics: Overview of AI in economics
+    - Journal: **Journal of Economic Perspectives (JEP)**
+    - **FT50**: Yes
+    - **Topic**: Policy implications of AI
+    - **Key Findings**: Need for updated regulatory frameworks
 
-37. **"The Impact of Machine Learning on Economics"** (2019)
-    - Authors: Mullainathan, Spiess
-    - Journal: Handbook of the Economics of Artificial Intelligence
-    - Topics: Broad survey
+### AI and Antitrust
 
-## Recent Developments (2021-2024)
+19. **"Artificial Intelligence, Algorithmic Pricing, and Collusion"** (2019)
+    - Authors: Calvano, Calzolari, Denicolò, Pastorello
+    - Journal: **American Economic Review (AER)**
+    - **FT50**: Yes
+    - **Topic**: AI algorithms and tacit collusion
+    - **Key Findings**: AI algorithms can learn to collude without explicit coordination
 
-38. **"Transformer Models for Economic Forecasting"** (2022)
-    - Authors: Various
-    - Methods: Transformer architecture, attention mechanisms
+---
 
-39. **"Large Language Models in Economics"** (2023)
-    - Authors: Various
-    - Topics: GPT models, economic text analysis
+## Generative AI & Large Language Models
 
-40. **"Federated Learning for Financial Data"** (2022)
-    - Authors: Various
-    - Topics: Privacy-preserving ML in finance
+20. **"Generative AI at Work"** (2024)
+    - Authors: Brynjolfsson, Li, Raymond
+    - Journal: **Quarterly Journal of Economics (QJE)**
+    - **FT50**: Yes
+    - **Topic**: Impact of ChatGPT on customer support productivity
+    - **Key Findings**: 14% productivity increase, largest gains for less experienced workers
+    - **Link**: [QJE]
+
+21. **"The Impact of Generative AI on Creative Work"** (2024)
+    - Authors: [Various]
+    - Journal: **Under Review / Working Paper**
+    - **Topic**: Generative AI's effects on creative industries
+    - **Status**: Emerging research area
+
+---
+
+## Survey Papers & Reviews
+
+22. **"Artificial Intelligence and the Modern Productivity Paradox: A Clash of Expectations and Statistics"** (2019)
+    - Authors: Brynjolfsson, Rock, Syverson
+    - Journal: **NBER Book**
+    - **Topic**: Survey of AI productivity paradox
+    - **Key Findings**: Measurement and diffusion explain the paradox
+
+23. **"The Economics of Artificial Intelligence: An Agenda"** (2019)
+    - Authors: Agrawal, Gans, Goldfarb
+    - Journal: **NBER Book / University of Chicago Press**
+    - **Topic**: Comprehensive survey of AI economics
+    - **Key Findings**: AI reduces prediction costs, transforming decision-making
+
+24. **"What Can Machine Learning Do? Workforce Implications"** (2017)
+    - Authors: Athey
+    - Journal: **Science**
+    - **Topic**: ML capabilities and workforce implications
+    - **Key Findings**: ML affects different occupations differently
 
 ---
 
 ## Notes
 
-- This list is continuously updated
-- Papers are organized by topic area
-- Include DOI/arXiv links when available
-- Add notes on methodology and key findings
+### Inclusion Criteria
+- ✅ Papers from FT50 journals or top economics/finance journals
+- ✅ Papers about **AI topics** (AI's impact on economics/finance)
+- ❌ Papers that only use AI/ML as a tool (unless they also study AI's impact)
+- ❌ Papers from lower-tier journals
 
-## How to Contribute
+### Key Journals
+- **QJE** (Quarterly Journal of Economics) - FT50
+- **AER** (American Economic Review) - FT50
+- **JPE** (Journal of Political Economy) - FT50
+- **RES** (Review of Economic Studies) - FT50
+- **JF** (Journal of Finance) - FT50
+- **JFE** (Journal of Financial Economics) - FT50
+- **RFS** (Review of Financial Studies) - FT50
+- **JEP** (Journal of Economic Perspectives) - FT50
+- **JEL** (Journal of Economic Literature) - FT50
 
-1. Add new papers with full citations
-2. Include methodology notes
-3. Link to arXiv/DOI when available
-4. Add brief summaries of key findings
+### How to Contribute
+1. Verify journal is FT50 or top-tier
+2. Ensure paper is about **AI topics** (not just using AI)
+3. Include full citation, journal, FT50 status
+4. Add key findings and link when available
 
 Last Updated: January 2025

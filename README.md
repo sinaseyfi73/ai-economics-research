@@ -1,63 +1,79 @@
-# AI in Economics & Finance Research Repository
+# AI in Economics & Finance: Top-Tier Research Repository
 
-A comprehensive collection of research papers, datasets, and resources on the application of Artificial Intelligence in Economics and Finance.
+A curated collection of research papers from **FT50 and top-tier economics/finance journals** focusing on **AI topics in economics and finance** - examining how AI impacts economic outcomes, labor markets, productivity, firms, and policy.
 
-## Overview
+## Focus
 
-This repository aims to gather and organize the latest research on how AI, machine learning, and related technologies are being applied to economic analysis, financial markets, policy-making, and economic modeling.
+This repository **exclusively** includes research from:
+- **FT50 Journals** (Financial Times Top 50)
+- **Top Economics Journals** (AER, QJE, JPE, RES, Econometrica)
+- **Top Finance Journals** (JF, JFE, RFS)
+
+**Scope**: Papers about **AI itself** and its economic/financial implications, **not** papers that simply use AI methods for economic analysis.
+
+## Examples of Included Topics
+
+✅ **"Generative AI at Work"** (QJE) - AI's impact on productivity and labor  
+✅ **"AI and Labor Markets"** - How AI affects employment and wages  
+✅ **"AI and Firm Performance"** - AI adoption and corporate outcomes  
+✅ **"AI and Inequality"** - Distributional effects of AI  
+✅ **"AI and Economic Growth"** - Macroeconomic impacts of AI  
+✅ **"AI and Financial Markets"** - How AI affects trading, market structure  
+✅ **"AI and Policy"** - Regulatory and policy responses to AI  
+
+❌ **Excluded**: Papers using ML/AI as a tool for forecasting or analysis (unless they also study AI's economic impact)
 
 ## Structure
 
-- **research-papers/**: Collection of research papers and articles
-- **datasets/**: Relevant datasets for AI in economics research
-- **code-examples/**: Code implementations and examples
+- **research-papers/**: Curated list of FT50 papers on AI topics
+- **categories/**: Research organized by AI impact area
 - **notes/**: Research notes and summaries
-- **categories/**: Research organized by topic area
-  - machine-learning/
-  - deep-learning/
-  - nlp-economics/
-  - finance/
-  - macroeconomics/
-  - microeconomics/
-  - behavioral-economics/
-  - policy-analysis/
+- **FT50_JOURNALS.md**: List of FT50 journals
 
-## Research Areas
+## Research Categories
 
-### Finance
-- Algorithmic trading and market prediction
-- Risk management and portfolio optimization
-- Credit scoring and fraud detection
-- High-frequency trading
-- Cryptocurrency analysis
+### Labor Markets & Productivity
+- AI's impact on employment
+- Productivity effects of AI
+- Skill-biased technological change
+- Job displacement and creation
+
+### Firms & Industries
+- AI adoption by firms
+- AI and firm performance
+- AI and market structure
+- AI and competition
 
 ### Macroeconomics
-- Economic forecasting
-- GDP prediction
-- Inflation modeling
-- Unemployment analysis
-- Central bank policy analysis
+- AI and economic growth
+- AI and productivity growth
+- AI and business cycles
+- AI and inflation
 
-### Microeconomics
-- Price optimization
-- Demand forecasting
-- Market structure analysis
-- Consumer behavior modeling
+### Finance
+- AI in financial markets
+- AI and market efficiency
+- AI and trading
+- AI and financial stability
 
-### Behavioral Economics
-- Sentiment analysis in markets
-- Decision-making models
-- Prospect theory applications
+### Inequality & Distribution
+- AI and wage inequality
+- AI and regional disparities
+- AI and skill premiums
 
-### Policy Analysis
-- Economic policy impact assessment
-- Regulatory compliance
-- Tax policy optimization
+### Policy & Regulation
+- AI regulation
+- AI and antitrust
+- AI and taxation
+- AI and social policy
 
 ## Contributing
 
-This is a research collection repository. Contributions, additions, and corrections are welcome.
+This repository focuses on **top-tier journal publications only**. When adding papers:
+1. Verify the journal is in FT50 or a top economics/finance journal
+2. Ensure the paper is about **AI topics** (not just using AI methods)
+3. Include full citation and link when available
 
 ## License
 
-This repository is for educational and research purposes. Please respect the copyright of individual papers and datasets.
+This repository is for educational and research purposes. Please respect the copyright of individual papers.
